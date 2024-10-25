@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Bournemouth",
+        "latitude": 50.7192,
+        "longitude": -1.8808
+    },
+    {
+        "id": 2,
+        "name": "Boscombe",
+        "latitude": 50.7268,
+        "longitude": -1.8432
+    },
+    {
+        "id": 3,
+        "name": "Sandbanks",
+        "latitude": 50.6786,
+        "longitude": -1.9409
+    },
+    {
+        "id": 4,
+        "name": "Southbourne",
+        "latitude": 50.7226,
+        "longitude": -1.8130
+    },
+    {
+        "id": 5,
+        "name": "Branksome Dene Chine",
+        "latitude": 50.7058,
+        "longitude": -1.9126
+    }
+]
