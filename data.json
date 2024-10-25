@@ -2,26 +2,26 @@
     {
         "id": 1,
         "title": "New Study Reveals Climate Change Impact on Coastal Cities",
-        "image": "https://github.com/s5416741/data-api/blob/main/city-centre-art.jpg"
+        "image": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/city-slums-night.jpg"
     },
     {
         "id": 2,
         "title": "Tech Giants Announce Partnership to Develop AI Safety Standards",
-        "image": "https://github.com/s5416741/data-api/blob/main/city-centre-art.jpg"
+        "image": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/city-slums-day.jpg"
     },
     {
         "id": 3,
         "title": "Breakthrough in Renewable Energy Storage Solutions",
-        "image": "https://github.com/s5416741/data-api/blob/main/city-image-skyline-day.jpg"
+        "image": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/city-image-wide-dusk.jpg"
     },
     {
         "id": 4,
         "title": "Healthcare Innovation Summit Highlights New Technologies",
-        "image": "https://github.com/s5416741/data-api/blob/main/city-slums-day.jpg"
+        "image": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/city-image-skyline-day.jpg"
     },
     {
         "id": 5,
         "title": "Astronomers Discover Earth-Like Planet in Distant Solar System",
-        "image": "https://github.com/s5416741/data-api/blob/main/city-slums-day.jpg"
+        "image": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/city-centre-art.jpg"
     }
 ]
