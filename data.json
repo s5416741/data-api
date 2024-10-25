@@ -2,26 +2,26 @@
     {
         "id": 1,
         "title": "New Study Reveals Climate Change Impact on Coastal Cities",
-        "image": "https://example.com/images/climate-change.jpg"
+        "image": "https://github.com/s5416741/data-api/blob/main/city-centre-art.jpg"
     },
     {
         "id": 2,
         "title": "Tech Giants Announce Partnership to Develop AI Safety Standards",
-        "image": "https://example.com/images/ai-safety.jpg"
+        "image": "https://github.com/s5416741/data-api/blob/main/city-centre-art.jpg"
     },
     {
         "id": 3,
         "title": "Breakthrough in Renewable Energy Storage Solutions",
-        "image": "https://example.com/images/renewable-energy.jpg"
+        "image": "https://github.com/s5416741/data-api/blob/main/city-image-skyline-day.jpg"
     },
     {
         "id": 4,
         "title": "Healthcare Innovation Summit Highlights New Technologies",
-        "image": "https://example.com/images/healthcare-summit.jpg"
+        "image": "https://github.com/s5416741/data-api/blob/main/city-slums-day.jpg"
     },
     {
         "id": 5,
         "title": "Astronomers Discover Earth-Like Planet in Distant Solar System",
-        "image": "https://example.com/images/earth-like-planet.jpg"
+        "image": "https://github.com/s5416741/data-api/blob/main/city-slums-day.jpg"
     }
 ]
