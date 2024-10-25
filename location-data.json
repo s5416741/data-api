@@ -3,30 +3,35 @@
         "id": 1,
         "name": "Bournemouth",
         "latitude": 50.7192,
-        "longitude": -1.8808
+        "longitude": -1.8808,
+        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/bournemouth-beach-image.jpg"
     },
     {
         "id": 2,
         "name": "Boscombe",
         "latitude": 50.7268,
-        "longitude": -1.8432
+        "longitude": -1.8432,
+        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/boscombe-beah-image.png"
     },
     {
         "id": 3,
         "name": "Sandbanks",
         "latitude": 50.6786,
-        "longitude": -1.9409
+        "longitude": -1.9409,
+        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/sandbanks-beah-image.jpg"
     },
     {
         "id": 4,
         "name": "Southbourne",
         "latitude": 50.7226,
-        "longitude": -1.8130
+        "longitude": -1.8130,
+        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/southborne-beach-image.jpg"
     },
     {
         "id": 5,
         "name": "Branksome Dene Chine",
         "latitude": 50.7058,
-        "longitude": -1.9126
+        "longitude": -1.9126,
+        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/branksome-dene-chine-image.jpg"
     }
 ]
