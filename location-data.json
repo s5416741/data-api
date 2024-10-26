@@ -5,7 +5,9 @@
         "latitude": 50.7192,
         "longitude": -1.8808,
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/bournemouth-beach-image.jpg",
-        "liveCameraURL": "https://wxyzwebcams.com/network/joe.php?url=https://cams.cdn-surfline.com/cdn-int/uk-bournemouth/playlist.m3u8"
+        "liveCameraURL": "https://wxyzwebcams.com/network/joe.php?url=https://cams.cdn-surfline.com/cdn-int/uk-bournemouth/playlist.m3u8",
+        "averageWaveHeight": "0.85m",
+        "averageSwellHeight": "0.15m"
     },
     {
         "id": 2,
@@ -13,7 +15,9 @@
         "latitude": 50.7268,
         "longitude": -1.8432,
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/boscombe-beah-image.png",
-        "liveCameraURL": "https://wxyzwebcams.com/network/joe.php?url=https://cams.cdn-surfline.com/cdn-int/uk-boscombe/playlist.m3u8"
+        "liveCameraURL": "https://wxyzwebcams.com/network/joe.php?url=https://cams.cdn-surfline.com/cdn-int/uk-boscombe/playlist.m3u8",
+        "averageWaveHeight": "0.85m",
+        "averageSwellHeight": "0.15m"
     },
     {
         "id": 3,
@@ -21,7 +25,9 @@
         "latitude": 50.6786,
         "longitude": -1.9409,
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/sandbanks-beah-image.jpg",
-        "liveCameraURL": ""
+        "liveCameraURL": "",
+        "averageWaveHeight": "0.85m",
+        "averageSwellHeight": "0.15m"
     },
     {
         "id": 4,
@@ -29,7 +35,9 @@
         "latitude": 50.7226,
         "longitude": -1.8130,
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/southborne-beach-image.jpg",
-        "liveCameraURL": ""
+        "liveCameraURL": "",
+        "averageWaveHeight": "0.85m",
+        "averageSwellHeight": "0.15m"
     },
     {
         "id": 5,
@@ -37,6 +45,18 @@
         "latitude": 50.7058,
         "longitude": -1.9126,
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/branksome-dene-chine-image.jpg",
-        "liveCameraURL": ""
+        "liveCameraURL": "",
+        "averageWaveHeight": "0.85m",
+        "averageSwellHeight": "0.15m"
+    },
+    {
+        "id": 6,
+        "name": "Test Location",
+        "latitude": 50.0000,
+        "longitude": -1.0000,
+        "imageURL": "",
+        "liveCameraURL": "",
+        "averageWaveHeight": "0.00m",
+        "averageSwellHeight": "0.00m"
     }
 ]
