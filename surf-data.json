@@ -630,5 +630,845 @@
             "swellDirection": "256.18°",
             "swellHeight": "0.28m"
         },
+           {
+            "waveHeight": "1.10m",
+            "windSpeed": "5.98 m/s",
+            "time": "2024-11-01T00:00:00+00:00",
+            "swellDirection": "258.22°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "0.95m",
+            "windSpeed": "6.71 m/s",
+            "time": "2024-11-01T01:00:00+00:00",
+            "swellDirection": "262.45°",
+            "swellHeight": "0.24m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "7.29 m/s",
+            "time": "2024-11-01T02:00:00+00:00",
+            "swellDirection": "265.37°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "5.81 m/s",
+            "time": "2024-11-01T03:00:00+00:00",
+            "swellDirection": "254.09°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "0.90m",
+            "windSpeed": "6.45 m/s",
+            "time": "2024-11-01T04:00:00+00:00",
+            "swellDirection": "258.79°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "1.08m",
+            "windSpeed": "8.06 m/s",
+            "time": "2024-11-01T05:00:00+00:00",
+            "swellDirection": "261.21°",
+            "swellHeight": "0.34m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "7.15 m/s",
+            "time": "2024-11-01T06:00:00+00:00",
+            "swellDirection": "255.83°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "0.85m",
+            "windSpeed": "6.90 m/s",
+            "time": "2024-11-01T07:00:00+00:00",
+            "swellDirection": "265.45°",
+            "swellHeight": "0.19m"
+        },
+        {
+            "waveHeight": "1.20m",
+            "windSpeed": "5.88 m/s",
+            "time": "2024-11-01T08:00:00+00:00",
+            "swellDirection": "254.11°",
+            "swellHeight": "0.36m"
+        },
+        {
+            "waveHeight": "1.10m",
+            "windSpeed": "7.31 m/s",
+            "time": "2024-11-01T09:00:00+00:00",
+            "swellDirection": "258.24°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "0.95m",
+            "windSpeed": "6.75 m/s",
+            "time": "2024-11-01T10:00:00+00:00",
+            "swellDirection": "261.33°",
+            "swellHeight": "0.20m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "7.48 m/s",
+            "time": "2024-11-01T11:00:00+00:00",
+            "swellDirection": "256.78°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "1.11m",
+            "windSpeed": "6.50 m/s",
+            "time": "2024-11-01T12:00:00+00:00",
+            "swellDirection": "265.22°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "0.90m",
+            "windSpeed": "8.20 m/s",
+            "time": "2024-11-01T13:00:00+00:00",
+            "swellDirection": "262.41°",
+            "swellHeight": "0.24m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "5.75 m/s",
+            "time": "2024-11-01T14:00:00+00:00",
+            "swellDirection": "258.78°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "6.35 m/s",
+            "time": "2024-11-01T15:00:00+00:00",
+            "swellDirection": "254.95°",
+            "swellHeight": "0.36m"
+        },
+        {
+            "waveHeight": "0.98m",
+            "windSpeed": "7.47 m/s",
+            "time": "2024-11-01T16:00:00+00:00",
+            "swellDirection": "265.90°",
+            "swellHeight": "0.21m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "6.76 m/s",
+            "time": "2024-11-01T17:00:00+00:00",
+            "swellDirection": "262.01°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.13m",
+            "windSpeed": "8.22 m/s",
+            "time": "2024-11-01T18:00:00+00:00",
+            "swellDirection": "258.45°",
+            "swellHeight": "0.35m"
+        },
+        {
+            "waveHeight": "1.01m",
+            "windSpeed": "5.92 m/s",
+            "time": "2024-11-01T19:00:00+00:00",
+            "swellDirection": "261.18°",
+            "swellHeight": "0.26m"
+        },
+        {
+            "waveHeight": "0.89m",
+            "windSpeed": "6.89 m/s",
+            "time": "2024-11-01T20:00:00+00:00",
+            "swellDirection": "265.36°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "7.55 m/s",
+            "time": "2024-11-01T21:00:00+00:00",
+            "swellDirection": "253.11°",
+            "swellHeight": "0.32m"
+        },
+        {
+            "waveHeight": "0.92m",
+            "windSpeed": "8.30 m/s",
+            "time": "2024-11-01T22:00:00+00:00",
+            "swellDirection": "262.99°",
+            "swellHeight": "0.18m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "6.44 m/s",
+            "time": "2024-11-01T23:00:00+00:00",
+            "swellDirection": "257.03°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "7.45 m/s",
+            "time": "2024-11-02T00:00:00+00:00",
+            "swellDirection": "264.12°",
+            "swellHeight": "0.36m"
+        },
+        {
+            "waveHeight": "0.98m",
+            "windSpeed": "5.83 m/s",
+            "time": "2024-11-02T01:00:00+00:00",
+            "swellDirection": "254.59°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "7.15 m/s",
+            "time": "2024-11-02T02:00:00+00:00",
+            "swellDirection": "261.34°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "8.10 m/s",
+            "time": "2024-11-02T03:00:00+00:00",
+            "swellDirection": "258.70°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "0.85m",
+            "windSpeed": "6.62 m/s",
+            "time": "2024-11-02T04:00:00+00:00",
+            "swellDirection": "265.41°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "1.09m",
+            "windSpeed": "7.23 m/s",
+            "time": "2024-11-02T05:00:00+00:00",
+            "swellDirection": "254.89°",
+            "swellHeight": "0.36m"
+        },
+        {
+            "waveHeight": "1.01m",
+            "windSpeed": "8.05 m/s",
+            "time": "2024-11-02T06:00:00+00:00",
+            "swellDirection": "259.64°",
+            "swellHeight": "0.20m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "6.71 m/s",
+            "time": "2024-11-02T07:00:00+00:00",
+            "swellDirection": "262.38°",
+            "swellHeight": "0.33m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "5.81 m/s",
+            "time": "2024-11-02T08:00:00+00:00",
+            "swellDirection": "265.55°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "0.97m",
+            "windSpeed": "7.09 m/s",
+            "time": "2024-11-02T09:00:00+00:00",
+            "swellDirection": "253.40°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "6.65 m/s",
+            "time": "2024-11-02T10:00:00+00:00",
+            "swellDirection": "258.27°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "8.00 m/s",
+            "time": "2024-11-02T11:00:00+00:00",
+            "swellDirection": "261.53°",
+            "swellHeight": "0.32m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "7.33 m/s",
+            "time": "2024-11-02T12:00:00+00:00",
+            "swellDirection": "256.80°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "0.99m",
+            "windSpeed": "6.88 m/s",
+            "time": "2024-11-02T13:00:00+00:00",
+            "swellDirection": "264.18°",
+            "swellHeight": "0.24m"
+        },
+        {
+            "waveHeight": "1.10m",
+            "windSpeed": "8.13 m/s",
+            "time": "2024-11-02T14:00:00+00:00",
+            "swellDirection": "258.79°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "0.88m",
+            "windSpeed": "5.72 m/s",
+            "time": "2024-11-02T15:00:00+00:00",
+            "swellDirection": "262.01°",
+            "swellHeight": "0.19m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "7.77 m/s",
+            "time": "2024-11-02T16:00:00+00:00",
+            "swellDirection": "265.88°",
+            "swellHeight": "0.36m"
+        },
+        {
+            "waveHeight": "1.03m",
+            "windSpeed": "6.95 m/s",
+            "time": "2024-11-02T17:00:00+00:00",
+            "swellDirection": "254.34°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "8.02 m/s",
+            "time": "2024-11-02T18:00:00+00:00",
+            "swellDirection": "258.22°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "0.92m",
+            "windSpeed": "6.67 m/s",
+            "time": "2024-11-02T19:00:00+00:00",
+            "swellDirection": "261.10°",
+            "swellHeight": "0.21m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "7.15 m/s",
+            "time": "2024-11-02T20:00:00+00:00",
+            "swellDirection": "264.30°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "0.87m",
+            "windSpeed": "8.01 m/s",
+            "time": "2024-11-02T21:00:00+00:00",
+            "swellDirection": "258.11°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "6.55 m/s",
+            "time": "2024-11-02T22:00:00+00:00",
+            "swellDirection": "265.77°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.01m",
+            "windSpeed": "5.85 m/s",
+            "time": "2024-11-02T23:00:00+00:00",
+            "swellDirection": "261.54°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.08m",
+            "windSpeed": "7.33 m/s",
+            "time": "2024-11-03T00:00:00+00:00",
+            "swellDirection": "258.93°",
+            "swellHeight": "0.35m"
+        },
+        {
+            "waveHeight": "0.95m",
+            "windSpeed": "6.21 m/s",
+            "time": "2024-11-03T01:00:00+00:00",
+            "swellDirection": "262.25°",
+            "swellHeight": "0.20m"
+        },
+        {
+            "waveHeight": "1.10m",
+            "windSpeed": "8.11 m/s",
+            "time": "2024-11-03T02:00:00+00:00",
+            "swellDirection": "254.78°",
+            "swellHeight": "0.32m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "5.92 m/s",
+            "time": "2024-11-03T03:00:00+00:00",
+            "swellDirection": "258.19°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "6.74 m/s",
+            "time": "2024-11-03T04:00:00+00:00",
+            "swellDirection": "265.64°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "0.99m",
+            "windSpeed": "7.88 m/s",
+            "time": "2024-11-03T05:00:00+00:00",
+            "swellDirection": "261.54°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "1.08m",
+            "windSpeed": "5.66 m/s",
+            "time": "2024-11-03T06:00:00+00:00",
+            "swellDirection": "256.12°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "1.10m",
+            "windSpeed": "6.82 m/s",
+            "time": "2024-11-03T07:00:00+00:00",
+            "swellDirection": "258.94°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "8.19 m/s",
+            "time": "2024-11-03T08:00:00+00:00",
+            "swellDirection": "254.78°",
+            "swellHeight": "0.35m"
+        },
+        {
+            "waveHeight": "0.87m",
+            "windSpeed": "5.50 m/s",
+            "time": "2024-11-03T09:00:00+00:00",
+            "swellDirection": "262.01°",
+            "swellHeight": "0.23m"
+        },
+        {
+            "waveHeight": "1.06m",
+            "windSpeed": "6.71 m/s",
+            "time": "2024-11-03T10:00:00+00:00",
+            "swellDirection": "265.45°",
+            "swellHeight": "0.26m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "7.20 m/s",
+            "time": "2024-11-03T11:00:00+00:00",
+            "swellDirection": "261.78°",
+            "swellHeight": "0.34m"
+        },
+        {
+            "waveHeight": "0.93m",
+            "windSpeed": "8.07 m/s",
+            "time": "2024-11-03T12:00:00+00:00",
+            "swellDirection": "258.31°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "1.01m",
+            "windSpeed": "6.88 m/s",
+            "time": "2024-11-03T13:00:00+00:00",
+            "swellDirection": "254.15°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "7.01 m/s",
+            "time": "2024-11-03T14:00:00+00:00",
+            "swellDirection": "265.12°",
+            "swellHeight": "0.35m"
+        },
+        {
+            "waveHeight": "0.90m",
+            "windSpeed": "8.29 m/s",
+            "time": "2024-11-03T15:00:00+00:00",
+            "swellDirection": "258.55°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "5.85 m/s",
+            "time": "2024-11-03T16:00:00+00:00",
+            "swellDirection": "262.72°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "6.91 m/s",
+            "time": "2024-11-03T17:00:00+00:00",
+            "swellDirection": "265.47°",
+            "swellHeight": "0.32m"
+        },
+        {
+            "waveHeight": "0.87m",
+            "windSpeed": "7.18 m/s",
+            "time": "2024-11-03T18:00:00+00:00",
+            "swellDirection": "253.90°",
+            "swellHeight": "0.24m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "8.05 m/s",
+            "time": "2024-11-03T19:00:00+00:00",
+            "swellDirection": "258.64°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "0.94m",
+            "windSpeed": "6.61 m/s",
+            "time": "2024-11-03T20:00:00+00:00",
+            "swellDirection": "261.13°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "1.09m",
+            "windSpeed": "6.88 m/s",
+            "time": "2024-11-03T21:00:00+00:00",
+            "swellDirection": "264.24°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "7.03 m/s",
+            "time": "2024-11-03T22:00:00+00:00",
+            "swellDirection": "258.71°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "5.74 m/s",
+            "time": "2024-11-03T23:00:00+00:00",
+            "swellDirection": "261.95°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "6.12 m/s",
+            "time": "2024-11-04T00:00:00+00:00",
+            "swellDirection": "258.60°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "0.88m",
+            "windSpeed": "7.15 m/s",
+            "time": "2024-11-04T01:00:00+00:00",
+            "swellDirection": "261.21°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "8.27 m/s",
+            "time": "2024-11-04T02:00:00+00:00",
+            "swellDirection": "265.02°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "1.04m",
+            "windSpeed": "5.95 m/s",
+            "time": "2024-11-04T03:00:00+00:00",
+            "swellDirection": "254.78°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "0.90m",
+            "windSpeed": "6.82 m/s",
+            "time": "2024-11-04T04:00:00+00:00",
+            "swellDirection": "258.90°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "7.60 m/s",
+            "time": "2024-11-04T05:00:00+00:00",
+            "swellDirection": "261.72°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "1.10m",
+            "windSpeed": "6.99 m/s",
+            "time": "2024-11-04T06:00:00+00:00",
+            "swellDirection": "265.68°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "5.85 m/s",
+            "time": "2024-11-04T07:00:00+00:00",
+            "swellDirection": "253.09°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "8.11 m/s",
+            "time": "2024-11-04T08:00:00+00:00",
+            "swellDirection": "258.77°",
+            "swellHeight": "0.33m"
+        },
+        {
+            "waveHeight": "0.95m",
+            "windSpeed": "7.12 m/s",
+            "time": "2024-11-04T09:00:00+00:00",
+            "swellDirection": "262.41°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "6.21 m/s",
+            "time": "2024-11-04T10:00:00+00:00",
+            "swellDirection": "264.89°",
+            "swellHeight": "0.34m"
+        },
+        {
+            "waveHeight": "1.08m",
+            "windSpeed": "8.04 m/s",
+            "time": "2024-11-04T11:00:00+00:00",
+            "swellDirection": "258.08°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "1.15m",
+            "windSpeed": "6.77 m/s",
+            "time": "2024-11-04T12:00:00+00:00",
+            "swellDirection": "254.14°",
+            "swellHeight": "0.35m"
+        },
+        {
+            "waveHeight": "0.94m",
+            "windSpeed": "8.03 m/s",
+            "time": "2024-11-04T13:00:00+00:00",
+            "swellDirection": "258.82°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "1.10m",
+            "windSpeed": "6.50 m/s",
+            "time": "2024-11-04T14:00:00+00:00",
+            "swellDirection": "261.55°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "7.19 m/s",
+            "time": "2024-11-04T15:00:00+00:00",
+            "swellDirection": "265.37°",
+            "swellHeight": "0.25m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "5.93 m/s",
+            "time": "2024-11-04T16:00:00+00:00",
+            "swellDirection": "258.59°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "0.88m",
+            "windSpeed": "8.05 m/s",
+            "time": "2024-11-04T17:00:00+00:00",
+            "swellDirection": "261.82°",
+            "swellHeight": "0.23m"
+        },
+        {
+            "waveHeight": "1.01m",
+            "windSpeed": "6.63 m/s",
+            "time": "2024-11-04T18:00:00+00:00",
+            "swellDirection": "264.47°",
+            "swellHeight": "0.35m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "8.06 m/s",
+            "time": "2024-11-04T19:00:00+00:00",
+            "swellDirection": "258.26°",
+            "swellHeight": "0.32m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "6.34 m/s",
+            "time": "2024-11-04T20:00:00+00:00",
+            "swellDirection": "261.67°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "0.92m",
+            "windSpeed": "7.17 m/s",
+            "time": "2024-11-04T21:00:00+00:00",
+            "swellDirection": "265.21°",
+            "swellHeight": "0.26m"
+        },
+        {
+            "waveHeight": "1.03m",
+            "windSpeed": "6.81 m/s",
+            "time": "2024-11-04T22:00:00+00:00",
+            "swellDirection": "253.40°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "8.18 m/s",
+            "time": "2024-11-04T23:00:00+00:00",
+            "swellDirection": "258.99°",
+            "swellHeight": "0.32m"
+        },
+        {
+            "waveHeight": "0.97m",
+            "windSpeed": "7.29 m/s",
+            "time": "2024-11-05T00:00:00+00:00",
+            "swellDirection": "261.80°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "5.56 m/s",
+            "time": "2024-11-05T01:00:00+00:00",
+            "swellDirection": "265.38°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.01m",
+            "windSpeed": "6.68 m/s",
+            "time": "2024-11-05T02:00:00+00:00",
+            "swellDirection": "261.45°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "0.89m",
+            "windSpeed": "7.03 m/s",
+            "time": "2024-11-05T03:00:00+00:00",
+            "swellDirection": "258.05°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.04m",
+            "windSpeed": "6.44 m/s",
+            "time": "2024-11-05T04:00:00+00:00",
+            "swellDirection": "265.50°",
+            "swellHeight": "0.31m"
+        },
+        {
+            "waveHeight": "0.96m",
+            "windSpeed": "8.22 m/s",
+            "time": "2024-11-05T05:00:00+00:00",
+            "swellDirection": "253.43°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "1.11m",
+            "windSpeed": "6.73 m/s",
+            "time": "2024-11-05T06:00:00+00:00",
+            "swellDirection": "258.23°",
+            "swellHeight": "0.33m"
+        },
+        {
+            "waveHeight": "1.00m",
+            "windSpeed": "5.83 m/s",
+            "time": "2024-11-05T07:00:00+00:00",
+            "swellDirection": "261.29°",
+            "swellHeight": "0.35m"
+        },
+        {
+            "waveHeight": "0.97m",
+            "windSpeed": "8.03 m/s",
+            "time": "2024-11-05T08:00:00+00:00",
+            "swellDirection": "265.66°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.02m",
+            "windSpeed": "6.33 m/s",
+            "time": "2024-11-05T09:00:00+00:00",
+            "swellDirection": "253.07°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "1.12m",
+            "windSpeed": "5.87 m/s",
+            "time": "2024-11-05T10:00:00+00:00",
+            "swellDirection": "258.90°",
+            "swellHeight": "0.34m"
+        },
+        {
+            "waveHeight": "0.91m",
+            "windSpeed": "7.73 m/s",
+            "time": "2024-11-05T11:00:00+00:00",
+            "swellDirection": "262.25°",
+            "swellHeight": "0.22m"
+        },
+        {
+            "waveHeight": "1.07m",
+            "windSpeed": "6.97 m/s",
+            "time": "2024-11-05T12:00:00+00:00",
+            "swellDirection": "265.49°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "6.14 m/s",
+            "time": "2024-11-05T13:00:00+00:00",
+            "swellDirection": "261.10°",
+            "swellHeight": "0.27m"
+        },
+        {
+            "waveHeight": "1.10m",
+            "windSpeed": "8.20 m/s",
+            "time": "2024-11-05T14:00:00+00:00",
+            "swellDirection": "258.29°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "0.99m",
+            "windSpeed": "6.74 m/s",
+            "time": "2024-11-05T15:00:00+00:00",
+            "swellDirection": "265.51°",
+            "swellHeight": "0.29m"
+        },
+        {
+            "waveHeight": "1.13m",
+            "windSpeed": "8.15 m/s",
+            "time": "2024-11-05T16:00:00+00:00",
+            "swellDirection": "258.81°",
+            "swellHeight": "0.34m"
+        },
+        {
+            "waveHeight": "1.01m",
+            "windSpeed": "6.53 m/s",
+            "time": "2024-11-05T17:00:00+00:00",
+            "swellDirection": "261.39°",
+            "swellHeight": "0.23m"
+        },
+        {
+            "waveHeight": "0.97m",
+            "windSpeed": "7.66 m/s",
+            "time": "2024-11-05T18:00:00+00:00",
+            "swellDirection": "265.71°",
+            "swellHeight": "0.32m"
+        },
+        {
+            "waveHeight": "1.09m",
+            "windSpeed": "6.84 m/s",
+            "time": "2024-11-05T19:00:00+00:00",
+            "swellDirection": "258.43°",
+            "swellHeight": "0.26m"
+        },
+        {
+            "waveHeight": "0.91m",
+            "windSpeed": "8.03 m/s",
+            "time": "2024-11-05T20:00:00+00:00",
+            "swellDirection": "261.01°",
+            "swellHeight": "0.28m"
+        },
+        {
+            "waveHeight": "1.06m",
+            "windSpeed": "7.38 m/s",
+            "time": "2024-11-05T21:00:00+00:00",
+            "swellDirection": "265.83°",
+            "swellHeight": "0.34m"
+        },
+        {
+            "waveHeight": "1.05m",
+            "windSpeed": "6.60 m/s",
+            "time": "2024-11-05T22:00:00+00:00",
+            "swellDirection": "253.81°",
+            "swellHeight": "0.30m"
+        },
+        {
+            "waveHeight": "0.97m",
+            "windSpeed": "8.03 m/s",
+            "time": "2024-11-05T23:00:00+00:00",
+            "swellDirection": "258.44°",
+            "swellHeight": "0.29m"
+        },
     ]
 }
