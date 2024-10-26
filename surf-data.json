@@ -1,0 +1,81 @@
+{
+  "surfData": [
+    {
+      "waveHeight": "0.82m",
+      "windSpeed": "7.61 m/s",
+      "time": "2024-10-28T06:00:00+00:00",
+      "swellDirection": "247.69°",
+      "swellHeight": "0.22m"
+    },
+    {
+      "waveHeight": "0.89m",
+      "windSpeed": "7.64 m/s",
+      "time": "2024-10-28T07:00:00+00:00",
+      "swellDirection": "247.67°",
+      "swellHeight": "0.22m"
+    },
+    {
+      "waveHeight": "0.92m",
+      "windSpeed": "7.78 m/s",
+      "time": "2024-10-28T08:00:00+00:00",
+      "swellDirection": "247.65°",
+      "swellHeight": "0.22m"
+    },
+    {
+      "waveHeight": "0.94m",
+      "windSpeed": "7.91 m/s",
+      "time": "2024-10-28T09:00:00+00:00",
+      "swellDirection": "247.63°",
+      "swellHeight": "0.22m"
+    },
+    {
+      "waveHeight": "0.97m",
+      "windSpeed": "8.05 m/s",
+      "time": "2024-10-28T10:00:00+00:00",
+      "swellDirection": "247.8°",
+      "swellHeight": "0.22m"
+    },
+    {
+      "waveHeight": "0.98m",
+      "windSpeed": "8.05 m/s",
+      "time": "2024-10-28T11:00:00+00:00",
+      "swellDirection": "247.96°",
+      "swellHeight": "0.21m"
+    },
+    {
+      "waveHeight": "1.0m",
+      "windSpeed": "8.04 m/s",
+      "time": "2024-10-28T12:00:00+00:00",
+      "swellDirection": "248.13°",
+      "swellHeight": "0.21m"
+    },
+    {
+      "waveHeight": "1.01m",
+      "windSpeed": "8.04 m/s",
+      "time": "2024-10-28T13:00:00+00:00",
+      "swellDirection": "248.34°",
+      "swellHeight": "0.2m"
+    },
+    {
+      "waveHeight": "1.05m",
+      "windSpeed": "7.9 m/s",
+      "time": "2024-10-28T14:00:00+00:00",
+      "swellDirection": "248.54°",
+      "swellHeight": "0.19m"
+    },
+    {
+      "waveHeight": "1.09m",
+      "windSpeed": "7.77 m/s",
+      "time": "2024-10-28T15:00:00+00:00",
+      "swellDirection": "248.75°",
+      "swellHeight": "0.18m"
+    },
+    {
+      "waveHeight": "1.13m",
+      "windSpeed": "7.63 m/s",
+      "time": "2024-10-28T16:00:00+00:00",
+      "swellDirection": "255.06°",
+      "swellHeight": "0.18m"
+    }
+  ]
+}
