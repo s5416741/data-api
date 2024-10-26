@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "firstName": "Joe",
+    "lastName": "Bloggs",
+    "location":[ "latitude": 50.7192, "longitude": -1.8808 ],
+    "locations": [ "bournemouth", "boscombe", "sandbanks", "southborne", "branksome-dene-chine"],
+  }
+]
