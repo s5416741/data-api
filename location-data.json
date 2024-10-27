@@ -5,7 +5,7 @@
         "latitude": 50.7192,
         "longitude": -1.8808,
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/bournemouth-beach-image.jpg",
-        "liveCameraURL": "https://wxyzwebcams.com/network/joe.php?url=https://cams.cdn-surfline.com/cdn-int/uk-bournemouth/playlist.m3u8",
+        "liveCameraURL": "https://cams.cdn-surfline.com/cdn-int/uk-bournemouth/playlist.m3u8",
         "averageWaveHeight": "0.85m",
         "averageSwellHeight": "0.15m"
     },
@@ -15,7 +15,7 @@
         "latitude": 50.7268,
         "longitude": -1.8432,
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/boscombe-beah-image.png",
-        "liveCameraURL": "https://wxyzwebcams.com/network/joe.php?url=https://cams.cdn-surfline.com/cdn-int/uk-boscombe/playlist.m3u8",
+        "liveCameraURL": "https://cams.cdn-surfline.com/cdn-int/uk-boscombe/playlist.m3u8",
         "averageWaveHeight": "0.85m",
         "averageSwellHeight": "0.15m"
     },
