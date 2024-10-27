@@ -34,7 +34,7 @@
         "name": "Southbourne",
         "latitude": 50.7226,
         "longitude": -1.8130,
-        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/southborne-beach-image.jpg",
+        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/southbourne-beach-image.jpg",
         "liveCameraURL": "",
         "averageWaveHeight": "0.85m",
         "averageSwellHeight": "0.15m"
