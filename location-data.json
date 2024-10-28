@@ -7,7 +7,8 @@
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/bournemouth-beach-image.jpg",
         "liveCameraURL": "https://cams.cdn-surfline.com/cdn-int/uk-bournemouth",
         "averageWaveHeight": "1.20m",
-        "averageSwellHeight": "0.30m"
+        "averageSwellHeight": "0.30m",
+        "averageTemperature": "12°"
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/boscombe-beah-image.png",
         "liveCameraURL": "https://cams.cdn-surfline.com/cdn-int/uk-boscombe",
         "averageWaveHeight": "1.05m",
-        "averageSwellHeight": "0.25m"
+        "averageSwellHeight": "0.25m",
+        "averageTemperature": "11°"
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/sandbanks-beah-image.jpg",
         "liveCameraURL": "",
         "averageWaveHeight": "1.15m",
-        "averageSwellHeight": "0.28m"
+        "averageSwellHeight": "0.28m",
+        "averageTemperature": "9°"
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/southbourne-beach-image.jpg",
         "liveCameraURL": "",
         "averageWaveHeight": "1.10m",
-        "averageSwellHeight": "0.26m"
+        "averageSwellHeight": "0.26m",
+        "averageTemperature": "10°"
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/branksome-dene-chine-image.jpg",
         "liveCameraURL": "",
         "averageWaveHeight": "1.25m",
-        "averageSwellHeight": "0.32m"
+        "averageSwellHeight": "0.32m",
+        "averageTemperature": "13°"
     },
     {
         "id": 6,
@@ -57,6 +62,7 @@
         "imageURL": "",
         "liveCameraURL": "",
         "averageWaveHeight": "",
-        "averageSwellHeight": ""
+        "averageSwellHeight": "",
+        "averageTemperature": ""
     }
 ]
