@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Bondi" },
+  { "id": 2, "name": "Malibu" },
+  { "id": 3, "name": "Waikiki" },
+  { "id": 4, "name": "Copacabana" },
+  { "id": 5, "name": "Kauai" },
+  { "id": 6, "name": "Santa Monica" },
+  { "id": 7, "name": "Myrtle" },
+  { "id": 8, "name": "Cannon" },
+  { "id": 9, "name": "South" },
+  { "id": 10, "name": "Laguna" },
+  { "id": 11, "name": "Bournemouth" },
+  { "id": 12, "name": "Brighton" },
+  { "id": 13, "name": "Porthcawl" },
+  { "id": 14, "name": "Scarborough" },
+  { "id": 15, "name": "Rhossili Bay" },
+  { "id": 16, "name": "Cromer" },
+  { "id": 17, "name": "West Wittering" },
+  { "id": 18, "name": "St Ives" },
+  { "id": 19, "name": "Penzance" },
+  { "id": 20, "name": "Woolacombe" }
+]
