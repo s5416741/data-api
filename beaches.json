@@ -18,5 +18,9 @@
   { "id": 17, "name": "West Wittering" },
   { "id": 18, "name": "St Ives" },
   { "id": 19, "name": "Penzance" },
-  { "id": 20, "name": "Woolacombe" }
+  { "id": 20, "name": "Woolacombe" },
+  { "id": 21, "name": "Boscombe" },
+  { "id": 22, "name": "Sandbanks" },
+  { "id": 23, "name": "Southbourne" },
+  { "id": 24, "name": "Branksome Dene Chine" }
 ]
