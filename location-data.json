@@ -81,7 +81,7 @@
         "name": "Waikiki",
         "latitude": 21.2762,
         "longitude": -157.8244,
-        "imageURL": "https://example.com/waikiki-beach.jpg",
+        "imageURL": "https://raw.githubusercontent.com/s5416741/data-api/refs/heads/main/waikiki-beach-image.jpg",
         "liveCameraURL": "https://cams.example.com/waikiki",
         "averageWaveHeight": "1.65m",
         "averageSwellHeight": "0.33m",
